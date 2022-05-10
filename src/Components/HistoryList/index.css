@@ -1,0 +1,34 @@
+.list-item {
+  display: flex;
+  justify-content: space-between;
+}
+.time-logo-container {
+  display: flex;
+}
+.time {
+  color: #475569;
+}
+.logo-name-container {
+  display: flex;
+  justify-content: flex-start;
+}
+
+.icon {
+  height: 30px;
+  width: 30px;
+  margin-left: 40px;
+  margin-top: 10px;
+}
+.title {
+  margin-left: 15px;
+  color: #475569;
+}
+.domainUrl {
+  margin-left: 20px;
+  color: #64748b;
+}
+.delete-button {
+  margin-right: 20px;
+  background-color: transparent;
+  border: none;
+}
